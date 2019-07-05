@@ -1,0 +1,22 @@
+.menu {
+    list-style-type: none; /*quitar bullet*/
+    text-align: right; 
+}
+.menu li {
+    display: inline;
+    margin: 0 10px 0 0
+}
+.menu li a {
+    color: white;
+    text-decoration: mediumblue;
+    font-family: 'Indie Flower', cursive;
+}
+.header{
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(37, 35, 35)
+}
+.text-h1-menu{
+    color: white
+}
